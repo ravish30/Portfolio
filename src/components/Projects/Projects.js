@@ -73,8 +73,7 @@ function Projects() {
               isBlog={false}
               title="Upsocial"
               description="UpSocial is a platform for content creators to engage with their fans through social tokens. It aims to build a decentralized social token network to
-              enable monetization for creators and exclusive communities for fans. I did research and developed various loopholes in that project and fixed some
-              bugs related to the responsiveness of the website."
+              enable monetization for creators and exclusive communities for fans."
               ghLink="https://github.com/ravish30"
               demoLink="https://app.upsocial.network/"
             />
